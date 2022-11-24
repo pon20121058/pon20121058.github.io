@@ -1,0 +1,18 @@
+.block{
+    float: left;
+    border-radius: 1em;
+    width: 500px;
+    border: 1px solid black;
+
+ padding: 50px;
+ background-color: orange;
+ margin-left: 100px;
+}
+h3{
+    background-color: khaki;
+    border-radius: 1em;
+    width: 20%;
+    padding-left: 1px;
+    height: 25px;
+    font-size: 18px;
+}
